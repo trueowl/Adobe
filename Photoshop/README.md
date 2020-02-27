@@ -3,7 +3,8 @@
 - A script to backup and symlink original settings into a different location.
 
 
-## [Files overview](Files_overview.md)
+## [Settings](Settings.md)
+## [Presets](Presets.md)
 
 Is an attempt to overview the files and guess their role, so to understand whether to sync them accross devices or not.
 
