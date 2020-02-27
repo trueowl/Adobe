@@ -9,7 +9,7 @@ Those settings are fucking mess, and I’m very sure there’s very little logic
 
 ## WorkSpaces and WorkSpaces (Modified)
 
-W0rkSp4c3z? [Workspace](https://www.lexico.com/definition/workspace) is a word on its own. Both of the directories go with my files, so to me that seems like it’s not that Modified is just for the user content.
+W0rkSp4c3z? [Workspace](https://www.lexico.com/definition/workspace) is a word on its own. Both of the directories go with my files, so to me that seems like it’s not that Modified is just for the user content. The difference between two directories is unknown.
 
 ## sniffer-out.txt
 
@@ -23,9 +23,9 @@ The name changes with new versions: `Adobe Photoshop CC 2019 Prefs.psp` easily b
 
 ## MESS
 
-Just a general complain: the logic is absent here and there’s a strong impression different people work on different files with no option to talk to each other and keep the same logic.
+Just a general complaint: the logic is absent and there’s a strong impression different people work on different files with no option to talk to each other and keep the same logic.
 
-`MachinePrefs.psp` vs `Workspace Prefs.psp` vs `WorkSpaces`
+Note spaces and capital letters among the files in the directory: `MachinePrefs.psp` vs `Workspace Prefs.psp` vs `WorkSpaces`
 
 ---
 

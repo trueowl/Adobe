@@ -6,7 +6,7 @@
 
 `'~/Library/Application Support/Adobe/Adobe Photoshop 2020/Presets/'`
 
-Even though it’s much easier to copy the entire directory, since all of its contents is user generated, it’s not a bad thing to know what that directories are about.
+Even though it’s much easier to copy the entire directory, since all of its contents is user generated, it’s not a bad thing to know what those directories are about.
 
 ## Contents
 
@@ -44,3 +44,6 @@ Even though it’s much easier to copy the entire directory, since all of its co
 - Tools
 - Volumes
 
+---
+
+To be updated, since Adobe managed to make this directory relatively organized.

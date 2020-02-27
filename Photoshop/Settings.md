@@ -12,7 +12,7 @@ Those settings are fucking mess, and I’m very sure [there’s very little logi
 ## Contents
 
 - Actions Palette.psp — no idea
-- [Adobe Photoshop 2020 Prefs.psp](### Adobe Photoshop CC 2019 Prefs.psp)
+- [Adobe Photoshop 2020 Prefs.psp](###Adobe Photoshop CC 2019 Prefs.psp)
 - Brushes.psp — no idea
 - LaunchEndFlag.psp — no idea
 - [MachinePrefs.psp](### MachinePrefs.psp)
@@ -26,7 +26,7 @@ Those settings are fucking mess, and I’m very sure [there’s very little logi
 - web-cache-temp — no idea
 
 
-### Adobe Photoshop 2020 Prefs.psp
+###Adobe Photoshop 2020 Prefs.psp
 
 Affects some settings, which ones is unclear.
 
