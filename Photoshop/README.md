@@ -1,12 +1,12 @@
 # Photoshop
 
-- [Settings](##Settings)
-- [Presets](##Presets)
+- [Settings](## Settings)
+- [Presets](## Presets)
 
 A script to backup and symlink original Settings and Presets into a different location.
 
 
-[##Settings](Settings.md)
+## [Settings](Settings.md)
 
 Is an attempt to overview the files and guess their role, so to understand whether to sync them accross devices or not.
 
@@ -29,6 +29,6 @@ Is an attempt to overview the files and guess their role, so to understand wheth
 
 ---
 
-[##Presets](Presets.md)
+## [Presets](Presets.md)
 
 We recommend to backup entire directory, since all its content is user generated. Some notes on Presets in its respective document.
