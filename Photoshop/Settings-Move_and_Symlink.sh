@@ -8,7 +8,7 @@
 
 # Variables
 
-path_to_configs=/Configs/Adobe/PS/Settings/
+path_to_configs=/Users/Shared/Configs/Adobe/PS/Settings/
 
 ## Paths for Photoshop 
 path_to_settings=${HOME}/Library/Preferences/Adobe\ Photoshop\ 2020\ Settings/
